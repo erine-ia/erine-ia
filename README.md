@@ -1,6 +1,6 @@
 ###  I'm Erinéia!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erine-ia&theme=buefy&show_icons=true)](https://github.com/erine-ia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erine-ia&theme=buefy&show_icons=true&count_private=true)](https://github.com/erine-ia/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erine-ia&layout=compact)](https://github.com/erine-ia/github-readme-stats)
 
 
